@@ -1,0 +1,2005 @@
+[
+  {
+    "id": "inicial",
+    "name": "Educación Inicial (3 a 5 años)",
+    "subjects": [
+      {
+        "id": "identidad-autonomia-ini",
+        "name": "Identidad y Autonomía",
+        "criteria": [
+          {
+            "code": "CE.INI.1",
+            "description": "Desarrolla su identidad personal reconociendo sus características físicas y manifestaciones emocionales para apreciarse y diferenciarse de los demás.",
+            "unitTopic": "Mi Identidad, Autonomía y Hábitos de Autocuidado",
+            "dcds": [
+              {
+                "code": "EI.1.1.1",
+                "description": "Comunicar algunos datos de su identidad como: nombres completos, edad, nombres de familiares cercanos y lugar donde vive.",
+                "indicator": "I.EI.1.1.1. Comunica datos de su identidad y se reconoce como ser único e irrepetible. (I.2.)",
+                "insertions": [
+                  "CS",
+                  "CC"
+                ]
+              },
+              {
+                "code": "EI.1.1.2",
+                "description": "Identificar y manifestar sus emociones y sentimientos, expresando las causas de estos mediante el lenguaje verbal.",
+                "indicator": "I.EI.1.1.2. Manifiesta y verbaliza sus emociones básicas ante sus compañeros y docentes. (S.1.)",
+                "insertions": [
+                  "CS",
+                  "CC"
+                ]
+              },
+              {
+                "code": "EI.1.1.3",
+                "description": "Practicar con autonomía hábitos de higiene personal como lavarse las manos, la cara y los dientes.",
+                "indicator": "I.EI.1.1.3. Realiza independientemente normas de aseo e higiene personal en la rutina escolar. (J.3.)",
+                "insertions": [
+                  "CS",
+                  "AMB"
+                ]
+              },
+              {
+                "code": "EI.1.1.4",
+                "description": "Identificar la importancia de usar el cinturón de seguridad y el casco para promover el autocuidado y la protección personal.",
+                "indicator": "I.EI.1.1.4. Reconoce elementos de protección y seguridad vial en actividades lúdicas. (J.3.)",
+                "insertions": [
+                  "VIAL",
+                  "CS"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "convivencia-civica-ini",
+        "name": "Convivencia, Cívica y Acompañamiento Integral",
+        "criteria": [
+          {
+            "code": "CE.INI.2",
+            "description": "Demuestra sentido de pertenencia y respeto hacia su comunidad y nación, actuando con honestidad, transparencia y responsabilidad.",
+            "unitTopic": "Convivencia Armónica, Respeto y Prácticas Cívicas",
+            "dcds": [
+              {
+                "code": "EI.1.2.1",
+                "description": "Participar en juegos grupales siguiendo las reglas y asumiendo roles que le permitan mantener un ambiente armónico.",
+                "indicator": "I.EI.1.2.1. Participa en juegos grupales colaborando con sus pares de forma armónica. (S.4.)",
+                "insertions": [
+                  "CS",
+                  "CIV"
+                ]
+              },
+              {
+                "code": "EI.1.2.2",
+                "description": "Reconocer acciones honestas y la importancia de decir la verdad en situaciones cotidianas del entorno familiar y escolar.",
+                "indicator": "I.EI.1.2.2. Demuestra conductas honestas y solidarias en interacciones diarias. (J.2.)",
+                "insertions": [
+                  "CIV",
+                  "CS"
+                ]
+              },
+              {
+                "code": "EI.1.2.3",
+                "description": "Demostrar cortesía y respeto hacia los actores viales (peatones, ciclistas, conductores y agentes de tránsito) en actividades lúdicas.",
+                "indicator": "I.EI.1.2.3. Practica pautas básicas de seguridad y respeto en la vía pública simulada. (J.3.)",
+                "insertions": [
+                  "VIAL",
+                  "CIV"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "relaciones-logico-mat-ini",
+        "name": "Relaciones Lógico-Matemáticas",
+        "criteria": [
+          {
+            "code": "CE.INI.3",
+            "description": "Comprende nociones básicas de tiempo, espacio, cantidad, forma y color mediante la manipulación de objetos.",
+            "unitTopic": "Formas, Colores, Nociones Espaciales y Cardinalidad",
+            "dcds": [
+              {
+                "code": "EI.2.1.1",
+                "description": "Asociar las formas de los objetos del entorno con figuras geométricas bidimensionales: círculo, cuadrado y triángulo.",
+                "indicator": "I.EI.2.1.1. Identifica figuras geométricas básicas en objetos del entorno cotidiano. (I.2.)",
+                "insertions": [
+                  "CM"
+                ]
+              },
+              {
+                "code": "EI.2.1.2",
+                "description": "Comprender la relación número-cantidad hasta el 10 y contar oralmente con secuencia numérica.",
+                "indicator": "I.EI.2.1.2. Cuenta colecciones de objetos hasta el 10 y reconoce su cardinalidad. (I.4.)",
+                "insertions": [
+                  "CM"
+                ]
+              },
+              {
+                "code": "EI.2.1.3",
+                "description": "Reconocer billetes y monedas en situaciones de la vida real e identificar la diferencia entre lo que se desea y lo que se necesita.",
+                "indicator": "I.EI.2.1.3. Diferencia monedas y billetes en el juego simbólico e inicia hábitos de ahorro. (I.1.)",
+                "insertions": [
+                  "FIN",
+                  "CM"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "expresion-lenguaje-ini",
+        "name": "Comprensión y Expresión del Lenguaje",
+        "criteria": [
+          {
+            "code": "CE.INI.4",
+            "description": "Exterioriza pensamientos, emociones y vivencias mediante el lenguaje oral, la conciencia lingüística y el acercamiento al mundo letrado.",
+            "unitTopic": "Comunicación Oral, Expresión Creativa y Narración",
+            "dcds": [
+              {
+                "code": "EI.3.1.1",
+                "description": "Expresarse utilizando oraciones cortas y completas manteniendo el orden de las palabras y pronunciación adecuada.",
+                "indicator": "I.EI.3.1.1. Se expresa oralmente con fluidez en conversaciones cotidianas. (I.3.)",
+                "insertions": [
+                  "CC"
+                ]
+              },
+              {
+                "code": "EI.3.1.2",
+                "description": "Relatar cuentos narrados por una persona adulta, manteniendo la secuencia temporal sin la ayuda del paratexto.",
+                "indicator": "I.EI.3.1.2. Reconstruye relatos orales siguiendo una secuencia lógica y coherente. (J.4.)",
+                "insertions": [
+                  "CC",
+                  "CS"
+                ]
+              },
+              {
+                "code": "EI.3.1.3",
+                "description": "Reconocer etiquetas y rótulos de su entorno inmediato y asociar la imagen de la portada con el título de cuentos conocidos.",
+                "indicator": "I.EI.3.1.3. Identifica paratextos, etiquetas y rótulos en el inicio del mundo letrado. (I.2.)",
+                "insertions": [
+                  "CC",
+                  "CD"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "preparatoria",
+    "name": "Básica Preparatoria (1.° EGB)",
+    "subjects": [
+      {
+        "id": "curriculo-integrador-prep",
+        "name": "Currículo Integrador por Ámbitos",
+        "criteria": [
+          {
+            "code": "CE.CS.1.1",
+            "description": "Reconoce que es un ser integral con características personales que conforman su identidad y lo hacen parte de una comunidad.",
+            "unitTopic": "Identidad, Convivencia y Núcleo Familiar",
+            "dcds": [
+              {
+                "code": "CS.1.1.1",
+                "description": "Reconocer que es un ser que siente, piensa, opina y tiene necesidades personales, en función del conocimiento de su identidad.",
+                "indicator": "I.CS.1.1.1. Expresa sus datos personales y reconoce sus características propias. (J.4.)",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "CS.1.1.7",
+                "description": "Practicar hábitos de alimentación, higiene y cuidado personal con autonomía en la casa y la escuela.",
+                "indicator": "I.CS.1.2.1. Practica con autonomía y responsabilidad hábitos de alimentación e higiene. (J.3., I.4.)",
+                "insertions": [
+                  "CS",
+                  "AMB"
+                ]
+              },
+              {
+                "code": "CS.1.1.12",
+                "description": "Reconocer en actividades lúdicas la importancia de usar el casco y equipo de protección para evitar lesiones en situaciones cotidianas.",
+                "indicator": "I.CS.1.3. Describe los beneficios del uso del casco y demás indumentaria de protección en simulaciones. (I.4., S.1.)",
+                "insertions": [
+                  "VIAL",
+                  "CS"
+                ]
+              }
+            ]
+          },
+          {
+            "code": "CE.M.1.2",
+            "description": "Utiliza el conteo de colecciones de objetos hasta 20 unidades y los numerales del 0 al 10 para ordenar, sumar o restar en situaciones significativas.",
+            "unitTopic": "Relaciones Lógico-Matemáticas: Conteo, Sumas y Restas",
+            "dcds": [
+              {
+                "code": "M.1.4.14",
+                "description": "Identificar cantidades y asociarlas con los numerales del 1 al 10 y el 0.",
+                "indicator": "I.M.1.2.1. Establece relaciones de orden y escribe secuencias numéricas ascendentes del 1 al 10. (I.3.)",
+                "insertions": [
+                  "CM"
+                ]
+              },
+              {
+                "code": "M.1.4.36",
+                "description": "Resolver problemas sencillos de suma y resta hasta 9 con el apoyo de sus pares y materiales manipulativos.",
+                "indicator": "I.M.1.2.2. Resuelve situaciones cotidianas de suma y resta con números naturales hasta el 10. (I.1.)",
+                "insertions": [
+                  "CM"
+                ]
+              },
+              {
+                "code": "M.1.4.40",
+                "description": "Identificar las diferencias entre gasto y ahorro y conversar en familia sobre el buen uso de los recursos.",
+                "indicator": "I.M.1.4.4. Reconoce las diferencias entre gasto y ahorro en situaciones lúdicas. (I.4.)",
+                "insertions": [
+                  "FIN",
+                  "CM"
+                ]
+              }
+            ]
+          },
+          {
+            "code": "CE.LL.1.3",
+            "description": "Desarrolla la expresión oral en contextos cotidianos usando la conciencia lingüística y recursos audiovisuales.",
+            "unitTopic": "Conciencia Lingüística y Expresión Oral Creativa",
+            "dcds": [
+              {
+                "code": "LL.1.5.5",
+                "description": "Desarrollar la expresión oral en contextos cotidianos, usando la conciencia lingüística (semántica, léxica y sintáctica).",
+                "indicator": "I.LL.1.3.1. Desarrolla la expresión oral en contextos cotidianos usando la conciencia lingüística. (J.3., I.3.)",
+                "insertions": [
+                  "CC"
+                ]
+              },
+              {
+                "code": "LL.1.5.17",
+                "description": "Registrar, expresar y comunicar ideas mediante sus propios códigos como preámbulo a la escritura convencional.",
+                "indicator": "I.LL.1.6.1. Registra, expresa y comunica ideas mediante sus propios códigos. (I.1., I.2.)",
+                "insertions": [
+                  "CC"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "educacion-fisica-prep",
+        "name": "Educación Física",
+        "criteria": [
+          {
+            "code": "CE.EF.1.1",
+            "description": "Participa en diferentes tipos de juegos ajustando sus acciones motrices en función de sus estados corporales y acuerdos grupales.",
+            "unitTopic": "Prácticas Corporales y Hábitos de Seguridad Lúdica",
+            "dcds": [
+              {
+                "code": "EF.1.1.2",
+                "description": "Comprender la necesidad de reglas y roles para poder jugar con otros, estableciendo y respetando acuerdos simples con sus pares.",
+                "indicator": "I.EF.1.1.2. Comprende la necesidad de respetar reglas, roles y acuerdos simples para su participación en juegos. (J.3.)",
+                "insertions": [
+                  "CS",
+                  "CIV"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "elemental",
+    "name": "Básica Elemental (2.°, 3.° y 4.° EGB)",
+    "subjects": [
+      {
+        "id": "matematica-elem",
+        "name": "Matemática",
+        "criteria": [
+          {
+            "code": "CE.M.2.2",
+            "description": "Aplica estrategias de conteo, concepto de número, propiedades de la adición y algoritmos de suma, resta y multiplicación hasta 9 999.",
+            "unitTopic": "Operaciones Aditivas y Multiplicativas con Números Naturales",
+            "dcds": [
+              {
+                "code": "M.2.1.21",
+                "description": "Realizar adiciones y sustracciones con los números hasta 9 999 con material concreto, mentalmente, gráficamente y de manera numérica.",
+                "indicator": "I.M.2.2.3. Opera utilizando la adición y sustracción con números naturales de hasta cuatro cifras. (I.2., I.4.)",
+                "insertions": [
+                  "CM"
+                ]
+              },
+              {
+                "code": "M.2.1.24",
+                "description": "Resolver y plantear problemas que requieran el uso de sumas y restas con números hasta cuatro cifras e interpretar la solución en contexto.",
+                "indicator": "I.M.2.2.3. Resuelve problemas aplicando adición y sustracción e interpreta su solución dentro del contexto del problema. (I.2.)",
+                "insertions": [
+                  "CM",
+                  "CC"
+                ]
+              },
+              {
+                "code": "M.2.1.26",
+                "description": "Realizar multiplicaciones en función del modelo grupal, geométrico y lineal.",
+                "indicator": "I.M.2.2.4. Opera utilizando la multiplicación sin reagrupación con números naturales en problemas del entorno. (I.2.)",
+                "insertions": [
+                  "CM"
+                ]
+              },
+              {
+                "code": "M.2.1.34",
+                "description": "Reconocer la importancia del ahorro y cómo aplicarlo en su vida diaria para alcanzar metas personales y familiares.",
+                "indicator": "I.M.2.2.3. Resuelve problemas matemáticos vinculados al ahorro y consumo responsable. (I.2.)",
+                "insertions": [
+                  "FIN",
+                  "CM"
+                ]
+              }
+            ]
+          },
+          {
+            "code": "CE.M.2.3",
+            "description": "Emplea elementos básicos de geometría, figuras planas y cálculo de perímetros para resolver situaciones cotidianas.",
+            "unitTopic": "Geometría Plana y Medición de Perímetros",
+            "dcds": [
+              {
+                "code": "M.2.2.5",
+                "description": "Distinguir lados, frontera interior y exterior, vértices y ángulos en figuras geométricas: cuadrados, triángulos y rectángulos.",
+                "indicator": "I.M.2.3.2. Identifica elementos básicos de la geometría en cuerpos y figuras geométricas. (I.2.)",
+                "insertions": [
+                  "CM"
+                ]
+              },
+              {
+                "code": "M.2.2.6",
+                "description": "Reconocer y diferenciar cuadrados y rectángulos a partir de sus características y determinar su perímetro por estimación y medición.",
+                "indicator": "I.M.2.3.4. Resuelve situaciones cotidianas que requieran la estimación y cálculo del perímetro de figuras planas. (I.2.)",
+                "insertions": [
+                  "CM"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "lengua-elem",
+        "name": "Lengua y Literatura",
+        "criteria": [
+          {
+            "code": "CE.LL.2.8",
+            "description": "Aplica el proceso de escritura en la producción de textos narrativos y descriptivos usando estrategias y procesos de pensamiento.",
+            "unitTopic": "Producción de Textos Narrativos y Descriptivos",
+            "dcds": [
+              {
+                "code": "LL.2.4.1",
+                "description": "Desarrollar progresivamente autonomía y calidad en el proceso de escritura de relatos de experiencias personales y descripciones.",
+                "indicator": "I.LL.2.8.1. Aplica el proceso de escritura en la producción de textos narrativos. (J.2., I.3.)",
+                "insertions": [
+                  "CC"
+                ]
+              },
+              {
+                "code": "LL.2.4.2",
+                "description": "Aplicar estrategias de pensamiento (ampliación de ideas, secuencia lógica, organizadores gráficos) en la autoevaluación de sus escritos.",
+                "indicator": "I.LL.2.8.2. Aplica estrategias de pensamiento en la producción de textos descriptivos. (J.2., I.3.)",
+                "insertions": [
+                  "CC"
+                ]
+              }
+            ]
+          },
+          {
+            "code": "CE.LL.2.5",
+            "description": "Comprende contenidos implícitos y explícitos, emitiendo juicios de valor sobre textos literarios y no literarios.",
+            "unitTopic": "Comprensión Lectora e Inferencias Textuales",
+            "dcds": [
+              {
+                "code": "LL.2.3.2",
+                "description": "Comprender los contenidos implícitos de un texto basándose en inferencias espacio-temporales y de causa-efecto.",
+                "indicator": "I.LL.2.5.2. Comprende los contenidos implícitos de un texto basándose en inferencias de causa-efecto. (I.2., I.4.)",
+                "insertions": [
+                  "CC"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ciencias-elem",
+        "name": "Ciencias Naturales",
+        "criteria": [
+          {
+            "code": "CE.CN.2.1",
+            "description": "Analiza la importancia del ciclo vital de los seres vivos a partir de la observación directa y experimentación.",
+            "unitTopic": "Los Seres Vivos, sus Ciclos y Adaptaciones",
+            "dcds": [
+              {
+                "code": "CN.2.1.1",
+                "description": "Observar las etapas del ciclo vital del ser humano y registrar gráficamente los cambios de acuerdo con la edad.",
+                "indicator": "I.CN.2.1.1. Explica el ciclo vital de los seres vivos a partir de la observación de evidencias. (J.2.)",
+                "insertions": [
+                  "AMB",
+                  "CS"
+                ]
+              },
+              {
+                "code": "CN.2.1.4",
+                "description": "Observar y describir las características de los animales y clasificarlos en vertebrados e invertebrados por la presencia de columna vertebral.",
+                "indicator": "I.CN.2.2.1. Clasifica a los animales en vertebrados e invertebrados en función de sus características. (J.3.)",
+                "insertions": [
+                  "AMB"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "sociales-elem",
+        "name": "Estudios Sociales",
+        "criteria": [
+          {
+            "code": "CE.CS.2.1",
+            "description": "Identifica los diferentes tipos de familia basándose en el análisis de sus diferencias y lazos de convivencia armónica.",
+            "unitTopic": "La Familia y la Convivencia Social",
+            "dcds": [
+              {
+                "code": "CS.2.1.1",
+                "description": "Reconocer a la familia como espacio primigenio de comunidad y núcleo de la sociedad unida por lazos de parentesco y solidaridad.",
+                "indicator": "I.CS.2.1.1. Describe los diferentes tipos de familia y reflexiona sobre derechos y responsabilidades. (J.1., S.1.)",
+                "insertions": [
+                  "CS",
+                  "CIV"
+                ]
+              },
+              {
+                "code": "CS.2.3.5",
+                "description": "Describir los derechos y obligaciones más relevantes relacionados con el tránsito y la educación vial.",
+                "indicator": "I.CS.2.3.2. Reconoce derechos y obligaciones viales que contribuyen al desarrollo de la comunidad. (J.3.)",
+                "insertions": [
+                  "VIAL",
+                  "CIV"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ingles-elem",
+        "name": "Lengua Extranjera (Inglés)",
+        "criteria": [
+          {
+            "code": "CE.EFL.2.3",
+            "description": "Make use of basic personal information and expressions of politeness in order to introduce oneself and participate in a short conversation.",
+            "unitTopic": "Introductions, Personal Information and Polite Classroom Language",
+            "dcds": [
+              {
+                "code": "EFL.2.1.1",
+                "description": "Exchange basic introductions and limited personal information in class using simple present tense.",
+                "indicator": "I.EFL.2.3.1. Learners can use basic personal information and expressions of politeness in short dialogues. (J.2, J.3)",
+                "insertions": [
+                  "CC",
+                  "CS"
+                ]
+              },
+              {
+                "code": "EFL.2.1.6",
+                "description": "Understand and use common expressions of politeness in class while working in pairs or groups (Please, sorry, thank you).",
+                "indicator": "I.EFL.2.3.1. Understand and apply common social conventions and polite phrases in class interactions. (J.3)",
+                "insertions": [
+                  "CC",
+                  "CIV"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "media",
+    "name": "Básica Media (5.°, 6.° y 7.° EGB)",
+    "subjects": [
+      {
+        "id": "matematica-media",
+        "name": "Matemática",
+        "criteria": [
+          {
+            "code": "CE.M.3.5",
+            "description": "Plantea problemas numéricos con números naturales, decimales o fraccionarios; aplica propiedades y algoritmos de operaciones combinadas.",
+            "unitTopic": "Operaciones Combinadas, Fracciones y Números Decimales",
+            "dcds": [
+              {
+                "code": "M.3.1.33",
+                "description": "Leer y escribir fracciones a partir de un objeto, un conjunto de objetos fraccionables o una unidad de medida.",
+                "indicator": "I.M.3.4.1. Utiliza números fraccionarios y decimales para resolver problemas de la vida cotidiana. (I.1.)",
+                "insertions": [
+                  "CM"
+                ]
+              },
+              {
+                "code": "M.3.1.39",
+                "description": "Calcular sumas y restas con fracciones obteniendo el denominador común.",
+                "indicator": "I.M.3.5.1. Aplica algoritmos de adición y sustracción de fracciones en situaciones cotidianas. (I.1.)",
+                "insertions": [
+                  "CM"
+                ]
+              },
+              {
+                "code": "M.3.1.47",
+                "description": "Calcular porcentajes en aplicaciones cotidianas: facturas, notas de venta, rebajas, cuentas de ahorro e interés simple.",
+                "indicator": "I.M.3.6.2. Representa y calcula porcentajes aplicados al comercio y la economía familiar. (I.2.)",
+                "insertions": [
+                  "FIN",
+                  "CM"
+                ]
+              },
+              {
+                "code": "M.3.1.48",
+                "description": "Resolver y plantear problemas con la aplicación de la proporcionalidad directa o inversa, e interpretar la solución en contexto.",
+                "indicator": "I.M.3.6.3. Plantea y resuelve problemas de proporcionalidad justificando sus procesos. (J.4., I.2.)",
+                "insertions": [
+                  "CM"
+                ]
+              }
+            ]
+          },
+          {
+            "code": "CE.M.3.10",
+            "description": "Emplea programas informáticos y tablas estadísticas para calcular parámetros como media, mediana, moda y rango.",
+            "unitTopic": "Estadística: Medidas de Tendencia Central y Dispersión",
+            "dcds": [
+              {
+                "code": "M.3.3.2",
+                "description": "Analizar e interpretar el significado de calcular medidas de tendencia central (media, mediana y moda) y de dispersión (el rango).",
+                "indicator": "I.M.3.10.2. Analiza e interpreta información a partir del cálculo de media, mediana, moda y rango con TIC. (I.2., I.3.)",
+                "insertions": [
+                  "CM",
+                  "CD"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "lengua-media",
+        "name": "Lengua y Literatura",
+        "criteria": [
+          {
+            "code": "CE.LL.3.6",
+            "description": "Produce textos con tramas narrativas, descriptivas, expositivas e instructivas con coherencia y conectores lógicos.",
+            "unitTopic": "Redacción de Textos Expositivos e Instructivos",
+            "dcds": [
+              {
+                "code": "LL.3.4.1",
+                "description": "Relatar textos con secuencia lógica, manejo de conectores y coherencia en el uso de persona y tiempo verbal.",
+                "indicator": "I.LL.3.6.1. Produce textos narrativos organizando ideas en párrafos con unidad de sentido. (I.2., I.4.)",
+                "insertions": [
+                  "CC"
+                ]
+              },
+              {
+                "code": "LL.3.4.10",
+                "description": "Expresar ideas con precisión e integrar en producciones escritas sustantivos, pronombres, adjetivos, verbos y adverbios.",
+                "indicator": "I.LL.3.6.3. Usa elementos gramaticales apropiados para enriquecer textos descriptivos y expositivos. (I.3., I.4.)",
+                "insertions": [
+                  "CC"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ciencias-media",
+        "name": "Ciencias Naturales",
+        "criteria": [
+          {
+            "code": "CE.CN.3.4",
+            "description": "Explica la estructura, función e influencia del sistema reproductor humano relacionándolo con los cambios puberales.",
+            "unitTopic": "Anatomía Humana, Pubertad y Salud Integral",
+            "dcds": [
+              {
+                "code": "CN.3.2.1",
+                "description": "Indagar y describir la estructura y función del sistema reproductor humano femenino y masculino.",
+                "indicator": "I.CN.3.4.1. Establece relaciones entre el sistema reproductor y endocrino en los cambios puberales. (J.3.)",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "CN.3.2.7",
+                "description": "Reconocer la importancia de la actividad física, higiene corporal y dieta equilibrada en la pubertad.",
+                "indicator": "I.CN.3.5.2. Promueve medidas de prevención y cuidado hacia su cuerpo mediante hábitos saludables. (J.3.)",
+                "insertions": [
+                  "CS",
+                  "AMB"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "sociales-media",
+        "name": "Estudios Sociales",
+        "criteria": [
+          {
+            "code": "CE.CS.3.8",
+            "description": "Distingue con recursos cartográficos las regiones del Ecuador según sus características geográficas y naturales.",
+            "unitTopic": "Espacio Andino, Regiones Naturales y Recursos Hídricos",
+            "dcds": [
+              {
+                "code": "CS.3.2.4",
+                "description": "Describir relieves, cordilleras, hoyas, sistemas fluviales y regiones naturales reconociendo su valor para el país.",
+                "indicator": "I.CS.3.8.1. Describe el territorio del Ecuador y sus características geográficas andinas. (J.1.)",
+                "insertions": [
+                  "AMB"
+                ]
+              },
+              {
+                "code": "CS.3.2.7",
+                "description": "Localizar los recursos hídricos del Ecuador con sus principales ríos y cuencas considerando su aprovechamiento.",
+                "indicator": "I.CS.3.9.2. Describe la influencia de los recursos hídricos y climas en la vida vegetal y humana. (J.1.)",
+                "insertions": [
+                  "AMB"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ingles-media",
+        "name": "Lengua Extranjera (Inglés)",
+        "criteria": [
+          {
+            "code": "CE.EFL.3.11",
+            "description": "Demonstrate comprehension of most of the details of a short simple online or print text and follow step-by-step instructions.",
+            "unitTopic": "Reading Comprehension, Main Ideas and Task Following",
+            "dcds": [
+              {
+                "code": "EFL.3.3.1",
+                "description": "Understand most of the details of the content of a short simple text on familiar topics.",
+                "indicator": "I.EFL.3.11.1. Learners can understand most details in a short simple online or print text. (I.3, I.4)",
+                "insertions": [
+                  "CC"
+                ]
+              },
+              {
+                "code": "EFL.3.4.2",
+                "description": "Write a short simple paragraph to describe yourself, people, animals, places and things with limited support.",
+                "indicator": "I.EFL.3.17.1. Learners can write short simple descriptive paragraphs on familiar subjects. (I.3, S.1)",
+                "insertions": [
+                  "CC"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "superior",
+    "name": "Básica Superior (8.°, 9.° y 10.° EGB)",
+    "subjects": [
+      {
+        "id": "matematica-sup",
+        "name": "Matemática",
+        "criteria": [
+          {
+            "code": "CE.M.4.1",
+            "description": "Emplea las relaciones de orden, propiedades algebraicas y operaciones con números enteros, racionales e irracionales en problemas cotidianos.",
+            "unitTopic": "Conjuntos Numéricos: Enteros, Racionales e Irracionales",
+            "dcds": [
+              {
+                "code": "M.4.1.1",
+                "description": "Reconocer los elementos del conjunto de números enteros Z ejemplificando situaciones reales en las que se utilizan negativos.",
+                "indicator": "I.M.4.1.1. Ejemplifica situaciones reales en las que se utilizan los números enteros. (I.4.)",
+                "insertions": [
+                  "CM"
+                ]
+              },
+              {
+                "code": "M.4.1.20",
+                "description": "Resolver ecuaciones de primer grado con una incógnita en Q en la solución de problemas sencillos.",
+                "indicator": "I.M.4.1.4. Formula y resuelve problemas aplicando propiedades de números racionales. (I.2.)",
+                "insertions": [
+                  "CM"
+                ]
+              },
+              {
+                "code": "M.4.1.62",
+                "description": "Calcular el valor del dinero en el tiempo y los intereses asociados a préstamos para evaluar opciones de crédito.",
+                "indicator": "I.M.4.1.5. Evalúa opciones de crédito e inversión calculando la capacidad de pago y valor del dinero. (I.1.)",
+                "insertions": [
+                  "FIN",
+                  "CM"
+                ]
+              }
+            ]
+          },
+          {
+            "code": "CE.M.4.2",
+            "description": "Emplea las operaciones con polinomios y sistemas de ecuaciones de dos incógnitas en la resolución de problemas de la vida real.",
+            "unitTopic": "Operaciones con Polinomios y Ecuaciones Lineales",
+            "dcds": [
+              {
+                "code": "M.4.1.55",
+                "description": "Resolver un sistema de dos ecuaciones lineales con dos incógnitas de manera algebraica utilizando igualación, sustitución y determinantes.",
+                "indicator": "I.M.4.2.1. Emplea las operaciones algebraicas en la solución de sistemas de ecuaciones lineales. (I.1., I.2.)",
+                "insertions": [
+                  "CM"
+                ]
+              }
+            ]
+          },
+          {
+            "code": "CE.M.4.6",
+            "description": "Aplica el teorema de Pitágoras y las relaciones trigonométricas en triángulos rectángulos para resolver problemas en contextos reales.",
+            "unitTopic": "Trigonometría Básica y Teorema de Pitágoras",
+            "dcds": [
+              {
+                "code": "M.4.2.15",
+                "description": "Aplicar el teorema de Pitágoras y las razones trigonométricas en la resolución numérica de triángulos rectángulos.",
+                "indicator": "I.M.4.6.1. Demuestra el teorema de Pitágoras y lo aplica en la resolución de situaciones reales. (I.1., S.4.)",
+                "insertions": [
+                  "CM"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "lengua-sup",
+        "name": "Lengua y Literatura",
+        "criteria": [
+          {
+            "code": "CE.LL.4.7",
+            "description": "Produce diferentes tipos de textos periodísticos y académicos estructurados con rigor, citas bibliográficas y manejo de fuentes.",
+            "unitTopic": "El Ensayo Argumentativo y la Investigación Académica",
+            "dcds": [
+              {
+                "code": "LL.4.4.2",
+                "description": "Lograr cohesión y coherencia en la escritura de ensayos breves mediante la formulación de una tesis clara y argumentos sustentados.",
+                "indicator": "I.LL.4.7.1. Estructura textos académicos aplicando la propiedad textual y citación rigurosa. (J.2., I.4.)",
+                "insertions": [
+                  "CC"
+                ]
+              },
+              {
+                "code": "LL.4.4.10",
+                "description": "Manejar las normas de citación e identificación de fuentes más utilizadas con rigor académico (APA y otras).",
+                "indicator": "I.LL.4.7.2. Aplica normas de citación e identificación de fuentes con honestidad académica. (J.2.)",
+                "insertions": [
+                  "CC",
+                  "CD"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ciencias-sup",
+        "name": "Ciencias Naturales",
+        "criteria": [
+          {
+            "code": "CE.CN.4.1",
+            "description": "Explica el nivel de complejidad de los seres vivos a partir del análisis de sus propiedades esenciales y niveles de organización.",
+            "unitTopic": "Materia Viva, Entorno Físico y Organización Celular",
+            "dcds": [
+              {
+                "code": "CN.4.1.2",
+                "description": "Explorar e identificar las propiedades de los seres vivos e inferir su importancia para el mantenimiento de la vida en la Tierra.",
+                "indicator": "I.CN.4.1.1. Analiza el nivel de complejidad de los seres vivos y sus propiedades esenciales. (J.3.)",
+                "insertions": [
+                  "AMB",
+                  "CS"
+                ]
+              },
+              {
+                "code": "CN.4.1.8",
+                "description": "Usar modelos y describir la reproducción sexual en los seres vivos y deducir su importancia para la especie.",
+                "indicator": "I.CN.4.2.1. Determina la importancia de la reproducción para la supervivencia de la especie. (J.3., S.1.)",
+                "insertions": [
+                  "CS"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "sociales-sup",
+        "name": "Estudios Sociales",
+        "criteria": [
+          {
+            "code": "CE.CS.4.5",
+            "description": "Analiza los procesos históricos de América Latina, su independencia y los desafíos contemporáneos por la equidad y la justicia social.",
+            "unitTopic": "Independencia de América Latina y Movimientos Sociales",
+            "dcds": [
+              {
+                "code": "CS.4.1.24",
+                "description": "Examinar las motivaciones de los movimientos de independencia de las colonias americanas y sus consecuencias.",
+                "indicator": "I.CS.4.5.1. Compara los procesos independentistas de América Latina destacando sus figuras clave. (J.1., I.2.)",
+                "insertions": [
+                  "CIV",
+                  "CS"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ingles-sup",
+        "name": "Lengua Extranjera (Inglés)",
+        "criteria": [
+          {
+            "code": "CE.EFL.4.2",
+            "description": "Recognize and demonstrate an appreciation of commonalities between cultures as well as the consequences of one’s actions while exhibiting socially responsible behaviors.",
+            "unitTopic": "Cultural Awareness, Ethics and Responsible Decision Making",
+            "dcds": [
+              {
+                "code": "EFL.4.1.2",
+                "description": "Recognize and demonstrate an appreciation of commonalities and distinctions across cultures and social groups.",
+                "indicator": "I.EFL.4.2.1. Learners can name similarities and differences across cultural groups. (J.3, S.1)",
+                "insertions": [
+                  "CS",
+                  "CIV"
+                ]
+              },
+              {
+                "code": "EFL.4.2.1",
+                "description": "Understand phrases and expressions related to areas of most immediate priority in spoken English.",
+                "indicator": "I.EFL.4.6.1. Learners can understand the main points in short spoken interactions. (I.3)",
+                "insertions": [
+                  "CC"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bgu",
+    "name": "Bachillerato General Unificado (1.°, 2.° y 3.° BGU)",
+    "subjects": [
+      {
+        "id": "matematica-bgu",
+        "name": "Matemática",
+        "criteria": [
+          {
+            "code": "CE.M.5.1",
+            "description": "Emplea conceptos básicos de las propiedades algebraicas de los números reales para optimizar procesos y resolver ecuaciones e inecuaciones.",
+            "unitTopic": "Propiedades Algebraicas de los Números Reales, Ecuaciones e Inecuaciones",
+            "dcds": [
+              {
+                "code": "M.5.1.1",
+                "description": "Aplicar las propiedades algebraicas de los números reales en la resolución de productos notables y en la factorización de expresiones algebraicas.",
+                "indicator": "I.M.5.1.1. Aplica las propiedades algebraicas de los números reales en productos notables, factorización, potenciación y radicación. (I.3.)",
+                "insertions": [
+                  "CM"
+                ]
+              },
+              {
+                "code": "M.5.1.2",
+                "description": "Deducir propiedades algebraicas de la potenciación de números reales con exponentes enteros en la simplificación de expresiones numéricas y algebraicas.",
+                "indicator": "I.M.5.1.1. Aplica propiedades algebraicas de los números reales en operaciones combinadas. (I.3.)",
+                "insertions": [
+                  "CM"
+                ]
+              },
+              {
+                "code": "M.5.1.8",
+                "description": "Aplicar las propiedades de orden de los números reales para resolver ecuaciones e inecuaciones de primer grado con valor absoluto de forma analítica y gráfica.",
+                "indicator": "I.M.5.1.2. Halla la solución de ecuaciones e inecuaciones de primer grado con valor absoluto y expresa su respuesta en intervalos. (I.2.)",
+                "insertions": [
+                  "CM"
+                ]
+              },
+              {
+                "code": "M.5.1.41",
+                "description": "Resolver aplicaciones de los polinomios de grado 4 en la informática (sistemas de numeración binario a decimal y viceversa) en la solución de problemas.",
+                "indicator": "I.M.5.1.1. Aplica sistemas de numeración en la resolución de problemas informáticos. (I.3.)",
+                "insertions": [
+                  "CD"
+                ]
+              }
+            ]
+          },
+          {
+            "code": "CE.M.5.2",
+            "description": "Emplea sistemas de ecuaciones 3x3 aplicando diferentes métodos, incluida la eliminación gaussiana; opera con matrices cuadradas y determinantes.",
+            "unitTopic": "Matrices, Determinantes y Sistemas de Ecuaciones 3x3",
+            "dcds": [
+              {
+                "code": "M.5.1.10",
+                "description": "Resolver sistemas de ecuaciones lineales con tres incógnitas utilizando los métodos de sustitución o eliminación gaussiana.",
+                "indicator": "I.M.5.2.1. Resuelve sistemas de ecuaciones 3x3 empleando varios métodos y los aplica en problemas contextualizados. (I.2.)",
+                "insertions": [
+                  "CM"
+                ]
+              },
+              {
+                "code": "M.5.1.14",
+                "description": "Reconocer el conjunto de matrices M2x2 [R] y sus elementos, así como las matrices especiales: nula e identidad.",
+                "indicator": "I.M.5.2.2. Opera con matrices de hasta tercer orden, calcula el determinante y la matriz inversa. (I.3.)",
+                "insertions": [
+                  "CM"
+                ]
+              }
+            ]
+          },
+          {
+            "code": "CE.M.5.3",
+            "description": "Opera y emplea funciones reales, lineales, cuadráticas, polinomiales, exponenciales, logarítmicas y trigonométricas para plantear modelos matemáticos con TIC.",
+            "unitTopic": "Funciones Reales y Modelado Matemático",
+            "dcds": [
+              {
+                "code": "M.5.1.20",
+                "description": "Graficar y analizar el dominio, recorrido, monotonía, ceros, extremos y paridad de las diferentes funciones reales utilizando TIC.",
+                "indicator": "I.M.5.3.1. Grafica funciones reales y analiza su dominio, recorrido, monotonía y paridad. (I.4.)",
+                "insertions": [
+                  "CD",
+                  "CC",
+                  "CM"
+                ]
+              },
+              {
+                "code": "M.5.1.26",
+                "description": "Aplicar las propiedades de las raíces de la ecuación de segundo grado en la factorización de una función cuadrática.",
+                "indicator": "I.M.5.3.2. Representa gráficamente funciones cuadráticas; halla intersecciones y vértices. (I.3., I.4.)",
+                "insertions": [
+                  "CM"
+                ]
+              },
+              {
+                "code": "M.5.1.29",
+                "description": "Identificar la intersección gráfica de dos parábolas como solución de un sistema de dos ecuaciones de segundo grado con dos incógnitas.",
+                "indicator": "I.M.5.3.2. Emplea sistemas de ecuaciones para calcular la intersección entre parábolas. (I.3., I.4.)",
+                "insertions": [
+                  "CM"
+                ]
+              }
+            ]
+          },
+          {
+            "code": "CE.M.5.4",
+            "description": "Reconoce patrones presentes en sucesiones numéricas reales, monótonas y definidas por recurrencia; identifica progresiones aritméticas y geométricas.",
+            "unitTopic": "Sucesiones, Series y Progresiones Financieras",
+            "dcds": [
+              {
+                "code": "M.5.1.53",
+                "description": "Identificar sucesiones numéricas reales, sucesiones monótonas y sucesiones definidas por recurrencia a partir de sus fórmulas.",
+                "indicator": "I.M.5.4.1. Identifica las sucesiones según sus características y halla parámetros desconocidos. (J.2.)",
+                "insertions": [
+                  "CM"
+                ]
+              },
+              {
+                "code": "M.5.1.55",
+                "description": "Aplicar conocimientos sobre progresiones aritméticas y geométricas para resolver problemas de matemática financiera (interés simple y compuesto).",
+                "indicator": "I.M.5.4.1. Aplica progresiones en situaciones cotidianas y analiza el sistema financiero local. (J.2.)",
+                "insertions": [
+                  "FIN",
+                  "CM"
+                ]
+              }
+            ]
+          },
+          {
+            "code": "CE.M.5.5",
+            "description": "Aplica el álgebra de límites como base para el cálculo diferencial e integral, interpreta derivadas y resuelve problemas de optimización.",
+            "unitTopic": "Cálculo Diferencial, Derivadas e Integrales",
+            "dcds": [
+              {
+                "code": "M.5.1.35",
+                "description": "Interpretar de manera geométrica y física la primera derivada (pendiente de la tangente, velocidad instantánea) de funciones polinomiales con TIC.",
+                "indicator": "I.M.5.5.1. Halla derivadas de funciones polinomiales para resolver problemas de optimización y velocidad instantánea. (I.2.)",
+                "insertions": [
+                  "CM",
+                  "CD"
+                ]
+              },
+              {
+                "code": "M.5.1.64",
+                "description": "Calcular la integral definida de una función polinomial para calcular el área bajo la curva con apoyo de las TIC.",
+                "indicator": "I.M.5.5.1. Concibe la integración como proceso inverso y resuelve problemas de áreas y física aplicada. (I.2.)",
+                "insertions": [
+                  "CM",
+                  "CD"
+                ]
+              }
+            ]
+          },
+          {
+            "code": "CE.M.5.6",
+            "description": "Emplea vectores geométricos en el plano y operaciones en ℝ² con aplicaciones en física y en la ecuación cartesiana de la recta.",
+            "unitTopic": "Vectores en el Plano ℝ² y Ecuaciones de la Recta",
+            "dcds": [
+              {
+                "code": "M.5.2.1",
+                "description": "Graficar vectores en el plano (coordenadas) identificando sus características: dirección, sentido y longitud o norma.",
+                "indicator": "I.M.5.6.1. Grafica vectores en el plano; halla su módulo y resuelve problemas aplicados a la física. (I.2.)",
+                "insertions": [
+                  "CM"
+                ]
+              },
+              {
+                "code": "M.5.2.10",
+                "description": "Identificar la pendiente de una recta para escribir la ecuación cartesiana de la recta y la ecuación general.",
+                "indicator": "I.M.5.6.3. Determina la ecuación de la recta e identifica su pendiente y posición relativa. (I.3.)",
+                "insertions": [
+                  "CM"
+                ]
+              }
+            ]
+          },
+          {
+            "code": "CE.M.5.7",
+            "description": "Efectúa operaciones en el espacio ℝ³ con vectores, rectas y planos; identifica si son paralelos o perpendiculares.",
+            "unitTopic": "Geometría Espacial ℝ³: Rectas y Planos",
+            "dcds": [
+              {
+                "code": "M.5.2.19",
+                "description": "Calcular el producto escalar entre dos vectores y la norma de un vector para determinar la distancia entre dos puntos en ℝ³.",
+                "indicator": "I.M.5.7.1. Opera con vectores, rectas y planos en el espacio de tres dimensiones. (I.2.)",
+                "insertions": [
+                  "CM"
+                ]
+              }
+            ]
+          },
+          {
+            "code": "CE.M.5.8",
+            "description": "Aplica los sistemas de inecuaciones lineales y el conjunto de soluciones factibles para hallar la solución óptima en programación lineal.",
+            "unitTopic": "Programación Lineal y Optimización",
+            "dcds": [
+              {
+                "code": "M.5.2.26",
+                "description": "Realizar un proceso de solución gráfica y analítica de problemas de programación lineal determinando vértices y puntos extremos.",
+                "indicator": "I.M.5.8.1. Utiliza métodos gráficos y analíticos para determinar la solución óptima en programación lineal. (I.3.)",
+                "insertions": [
+                  "CM",
+                  "CS"
+                ]
+              }
+            ]
+          },
+          {
+            "code": "CE.M.5.9",
+            "description": "Emplea la estadística descriptiva para resumir, organizar, graficar e interpretar datos agrupados y no agrupados.",
+            "unitTopic": "Estadística Descriptiva y Medidas de Dispersión",
+            "dcds": [
+              {
+                "code": "M.5.3.1",
+                "description": "Calcular e interpretar la media, mediana, moda, rango, varianza y desviación estándar para datos no agrupados y agrupados con TIC.",
+                "indicator": "I.M.5.9.1. Calcula con y sin apoyo de las TIC las medidas de centralización y dispersión juzgando su validez. (J.2., I.3.)",
+                "insertions": [
+                  "CM",
+                  "C",
+                  "VIAL"
+                ]
+              },
+              {
+                "code": "M.5.3.2",
+                "description": "Resolver y plantear problemas de aplicación de las medidas de tendencia central y de dispersión para datos agrupados con TIC.",
+                "indicator": "I.M.5.9.1. Representa la información en gráficos estadísticos apropiados e interpreta sus resultados. (J.2., I.3.)",
+                "insertions": [
+                  "CIV"
+                ]
+              },
+              {
+                "code": "M.5.3.5",
+                "description": "Determinar los cuantiles (cuartiles, deciles y percentiles) para datos no agrupados y para datos agrupados.",
+                "indicator": "I.M.5.9.1. Determina cuantiles y realiza representaciones gráficas de dispersión. (J.2., I.3.)",
+                "insertions": [
+                  "CD"
+                ]
+              },
+              {
+                "code": "M.5.3.29",
+                "description": "Argumentar cómo las políticas de planificación urbana y rural y de construcción inciden en la vida cotidiana evaluando datos estadísticos.",
+                "indicator": "I.M.5.9.1. Respalda sus ideas evaluando datos estadísticos contextualizados. (J.2., I.3.)",
+                "insertions": [
+                  "AMB"
+                ]
+              }
+            ]
+          },
+          {
+            "code": "CE.M.5.10",
+            "description": "Emplea técnicas de conteo y teoría de probabilidades para calcular la posibilidad de que un determinado evento ocurra.",
+            "unitTopic": "Técnicas de Conteo y Teoría de Probabilidades",
+            "dcds": [
+              {
+                "code": "M.5.3.7",
+                "description": "Reconocer los experimentos y eventos en un problema de texto, y aplicar el concepto de probabilidad y axiomas en la resolución.",
+                "indicator": "I.M.5.10.1. Identifica los experimentos y eventos de un problema y aplica reglas de probabilidad. (I.4.)",
+                "insertions": [
+                  "CM",
+                  "C"
+                ]
+              },
+              {
+                "code": "M.5.3.11",
+                "description": "Aplicar los métodos de conteo: permutaciones y combinaciones para determinar la probabilidad de eventos simples y compuestos.",
+                "indicator": "I.M.5.10.1. Se apoya en técnicas de conteo y tecnología para el cálculo de probabilidades. (I.4.)",
+                "insertions": [
+                  "AMB"
+                ]
+              }
+            ]
+          },
+          {
+            "code": "CE.M.5.11",
+            "description": "Efectúa procedimientos estadísticos para realizar inferencias, analizar la distribución binomial y calcular correlación y regresión lineal.",
+            "unitTopic": "Regresión Lineal Simple y Distribución Binomial",
+            "dcds": [
+              {
+                "code": "M.5.3.22",
+                "description": "Calcular la covarianza de dos variables aleatorias para determinar la recta de regresión lineal y hacer predicciones contextualizadas.",
+                "indicator": "I.M.5.11.1. Grafica diagramas de dispersión y la recta de regresión lineal para analizar la correlación entre variables. (J.2., I.3.)",
+                "insertions": [
+                  "CM",
+                  "CD"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "fisica-bgu",
+        "name": "Física",
+        "criteria": [
+          {
+            "code": "CE.CN.F.5.1",
+            "description": "Obtiene las magnitudes cinemáticas de un objeto en trayectoria rectilínea (MRU y MRUV) elaborando tablas y gráficas.",
+            "unitTopic": "Cinemática Lineal: MRU y MRUV",
+            "dcds": [
+              {
+                "code": "CN.F.5.1.1",
+                "description": "Determinar la posición y el desplazamiento de un objeto que se mueve a lo largo de una trayectoria rectilínea en un sistema de referencia.",
+                "indicator": "I.CN.F.5.1.1. Determina magnitudes cinemáticas escalares a partir de tablas y gráficas. (I.2.)",
+                "insertions": [
+                  "CM"
+                ]
+              },
+              {
+                "code": "CN.F.5.1.3",
+                "description": "Obtener la velocidad instantánea empleando el gráfico posición versus tiempo y conceptualizar la aceleración.",
+                "indicator": "I.CN.F.5.1.2. Obtiene las magnitudes cinemáticas de MRUV a base de representaciones gráficas. (I.2.)",
+                "insertions": [
+                  "CM"
+                ]
+              }
+            ]
+          },
+          {
+            "code": "CE.CN.F.5.4",
+            "description": "Elabora diagramas de cuerpo libre y resuelve problemas aplicando las leyes de Newton en sistemas inerciales y no inerciales.",
+            "unitTopic": "Dinámica: Leyes de Newton y Fuerzas Mecánicas",
+            "dcds": [
+              {
+                "code": "CN.F.5.1.16",
+                "description": "Indagar las experiencias frente a las razones por las que se mueven los cuerpos para conceptualizar la primera ley de Newton (inercia).",
+                "indicator": "I.CN.F.5.4.1. Elabora diagramas de cuerpo libre y aplica las leyes de Newton en problemas contextualizados. (I.2.)",
+                "insertions": [
+                  "CM",
+                  "CC"
+                ]
+              },
+              {
+                "code": "CN.F.5.1.17",
+                "description": "Explicar la segunda ley de Newton mediante la relación entre fuerza, masa y aceleración con experimentaciones.",
+                "indicator": "I.CN.F.5.4.1. Resuelve problemas aplicando la segunda ley de Newton en sistemas físicos. (I.2.)",
+                "insertions": [
+                  "CM"
+                ]
+              }
+            ]
+          },
+          {
+            "code": "CE.CN.F.5.13",
+            "description": "Determina mediante ejercicios de aplicación el trabajo mecánico con fuerzas constantes, energía mecánica, potencia y conservación de energía.",
+            "unitTopic": "Trabajo Mecánico, Energía y Potencia",
+            "dcds": [
+              {
+                "code": "CN.F.5.2.1",
+                "description": "Definir el trabajo mecánico a partir del análisis de la acción de una fuerza constante aplicada a un objeto que se desplaza en línea recta.",
+                "indicator": "I.CN.F.5.13.1. Determina el trabajo mecánico, potencia y energía mecánica con fuerzas constantes. (I.2.)",
+                "insertions": [
+                  "CM"
+                ]
+              }
+            ]
+          },
+          {
+            "code": "CE.CN.F.5.15",
+            "description": "Explica los elementos de una onda, sus propiedades y fenómenos ondulatorios con aplicaciones cotidianas.",
+            "unitTopic": "Movimiento Ondulatorio y Acústica",
+            "dcds": [
+              {
+                "code": "CN.F.5.3.1",
+                "description": "Describir las relaciones de los elementos de la onda: amplitud, período y frecuencia mediante su representación en diagramas.",
+                "indicator": "I.CN.F.5.15.1. Describe con base en un modelo de ondas mecánicas sus elementos y propagación. (I.2.)",
+                "insertions": [
+                  "CM",
+                  "CD"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "quimica-bgu",
+        "name": "Química",
+        "criteria": [
+          {
+            "code": "CE.CN.Q.5.1",
+            "description": "Explica las propiedades y leyes de los gases con base en el modelo cinético molecular y su aplicación cotidiana.",
+            "unitTopic": "Propiedades de la Materia y Leyes de los Gases",
+            "dcds": [
+              {
+                "code": "CN.Q.5.1.1",
+                "description": "Analizar las propiedades de los gases al aplicar las leyes de Boyle, Charles y Gay-Lussac en situaciones cotidianas.",
+                "indicator": "I.CN.Q.5.1.1. Explica las propiedades de los gases con base en el modelo cinético molecular. (I.2.)",
+                "insertions": [
+                  "CM",
+                  "AMB"
+                ]
+              }
+            ]
+          },
+          {
+            "code": "CE.CN.Q.5.3",
+            "description": "Analiza la estructura electrónica de los átomos a partir de su posición en la tabla periódica y variación de propiedades periódicas.",
+            "unitTopic": "Estructura Atómica y Tabla Periódica",
+            "dcds": [
+              {
+                "code": "CN.Q.5.1.6",
+                "description": "Relacionar la estructura electrónica de los átomos con la posición en la tabla periódica para deducir propiedades químicas.",
+                "indicator": "I.CN.Q.5.3.1. Analiza la estructura electrónica de los átomos y su variación periódica. (I.2.)",
+                "insertions": [
+                  "CC"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "biologia-bgu",
+        "name": "Biología",
+        "criteria": [
+          {
+            "code": "CE.CN.B.5.1",
+            "description": "Argumenta el origen de la vida desde el análisis de las teorías de la abiogénesis y biomoléculas de la materia viva.",
+            "unitTopic": "Origen de la Vida y Biomoléculas Orgánicas",
+            "dcds": [
+              {
+                "code": "CN.B.5.1.1",
+                "description": "Indagar y analizar la teoría de la abiogénesis que explica el origen de la vida e interpretar las distintas evidencias científicas.",
+                "indicator": "I.CN.B.5.1.1. Argumenta el origen de la vida desde el análisis de las teorías científicas. (I.2., S.1.)",
+                "insertions": [
+                  "AMB",
+                  "CS"
+                ]
+              },
+              {
+                "code": "CN.B.5.1.4",
+                "description": "Describir y comparar las características básicas de las biomoléculas (glúcidos, lípidos, proteínas y ácidos nucleicos).",
+                "indicator": "I.CN.B.5.1.2. Explica la importancia de las biomoléculas y su función en la materia viva. (I.3., I.4.)",
+                "insertions": [
+                  "AMB"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "historia-bgu",
+        "name": "Historia",
+        "criteria": [
+          {
+            "code": "CE.CS.H.5.1",
+            "description": "Analiza y diferencia la historia real de la construcción historiográfica basada en fuentes y condicionantes materiales.",
+            "unitTopic": "Historiografía, Trabajo y Origen Humano",
+            "dcds": [
+              {
+                "code": "CS.H.5.1.1",
+                "description": "Contrastar los conceptos de historia e historiografía con el fin de diferenciar la realidad de la construcción intelectual.",
+                "indicator": "I.CS.H.5.1.1. Valora el rol de las fuentes históricas para diferenciar realidad de construcción intelectual. (J.1.)",
+                "insertions": [
+                  "CC",
+                  "CIV"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "filosofia-bgu",
+        "name": "Filosofía",
+        "criteria": [
+          {
+            "code": "CE.CS.F.5.1",
+            "description": "Contrasta el pensamiento mítico del filosófico a partir de la crítica a problemas concretos.",
+            "unitTopic": "El Origen del Pensamiento Racional y la Lógica",
+            "dcds": [
+              {
+                "code": "CS.F.5.1.1",
+                "description": "Comprender el origen del pensamiento filosófico a partir de la crítica al pensamiento mítico mediante la reflexión.",
+                "indicator": "I.CS.F.5.1.1. Comprende el surgimiento de la filosofía frente al mito y la religión. (J.3.)",
+                "insertions": [
+                  "CC",
+                  "CIV"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ciudadania-bgu",
+        "name": "Educación para la Ciudadanía",
+        "criteria": [
+          {
+            "code": "CE.CS.EC.5.1",
+            "description": "Explica la evolución histórica de la ciudadanía y los derechos humanos desde la antigüedad hasta la modernidad.",
+            "unitTopic": "Ciudadanía y Derechos Humanos Fundamentales",
+            "dcds": [
+              {
+                "code": "CS.EC.5.1.1",
+                "description": "Determinar el origen y evolución histórica del concepto ciudadanía en la Grecia antigua y en Roma.",
+                "indicator": "I.CS.EC.5.1.1. Analiza el origen de la ciudadanía y los derechos en el contexto histórico occidental. (J.1., I.3.)",
+                "insertions": [
+                  "CIV",
+                  "CS"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "lengua-bgu",
+        "name": "Lengua y Literatura",
+        "criteria": [
+          {
+            "code": "CE.LL.5.1",
+            "description": "Indaga sobre la evolución de la cultura escrita en la era digital y sus transformaciones socioculturales.",
+            "unitTopic": "La Cultura Escrita en la Era Digital",
+            "dcds": [
+              {
+                "code": "LL.5.1.1",
+                "description": "Indagar sobre las transformaciones y las tendencias actuales y futuras de la evolución de la cultura escrita en la era digital.",
+                "indicator": "I.LL.5.1.1. Reconoce las transformaciones de la cultura escrita en la era digital. (J.3., I.2.)",
+                "insertions": [
+                  "CC",
+                  "CD"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ingles-bgu",
+        "name": "Lengua Extranjera (Inglés)",
+        "criteria": [
+          {
+            "code": "CE.EFL.5.1",
+            "description": "Display an understanding of the integrity of different cultures by sharing experiences and participating in discussions with empathy and respect.",
+            "unitTopic": "Communication and Cultural Awareness: Intercultural Exchange",
+            "dcds": [
+              {
+                "code": "EFL.5.1.1",
+                "description": "Display an understanding of the relationship between the practices and perspectives of different cultures by recognizing and sharing cross-cultural experiences and ideas.",
+                "indicator": "I.EFL.5.1.1. Display an understanding of the relationship between practices and perspectives of cultures. (I.1, S.2)",
+                "insertions": [
+                  "CS",
+                  "CIV"
+                ]
+              },
+              {
+                "code": "EFL.5.1.2",
+                "description": "Demonstrate mindfulness, empathy, tolerance and an overall respect for the integrity of cultures in daily classroom activities.",
+                "indicator": "I.EFL.5.1.1. Learners can show empathy, tolerance and respect for other cultures in classroom exchanges. (S.1, J.3)",
+                "insertions": [
+                  "CS"
+                ]
+              },
+              {
+                "code": "EFL.5.1.10",
+                "description": "Take initiative in a discussion in a positive way by being sensitive to the nuances of peers’ comments, reactions and responses (both verbal and nonverbal).",
+                "indicator": "I.EFL.5.4.1. Learners can initiate, expand, and conclude social and academic conversations. (I.3, S.1)",
+                "insertions": [
+                  "CS",
+                  "CC"
+                ]
+              }
+            ]
+          },
+          {
+            "code": "CE.EFL.5.2",
+            "description": "Demonstrate an ability to discuss culture by analyzing cultural products and referents from Ecuador and beyond, making informed decisions on prejudice and discrimination.",
+            "unitTopic": "Cultural Heritage and Social Awareness",
+            "dcds": [
+              {
+                "code": "EFL.5.1.3",
+                "description": "Find parallels between Ecuadorian cultural and political referents and those of other countries by talking about holidays, symbols, customs and schooling.",
+                "indicator": "I.EFL.5.2.1. Exhibit an ability to discuss culture by analyzing cultural products from Ecuador and other countries. (I.2, S.2)",
+                "insertions": [
+                  "CIV"
+                ]
+              },
+              {
+                "code": "EFL.5.1.5",
+                "description": "Identify, discuss and analyze cultural products from Ecuador and beyond and use them to explore the perspectives of the culture.",
+                "indicator": "I.EFL.5.2.1. Recognize and discuss cultural products from Ecuador and other countries. (I.2)",
+                "insertions": [
+                  "CIV"
+                ]
+              },
+              {
+                "code": "EFL.5.1.6",
+                "description": "Demonstrate an ability to make informed choices and take action on issues of prejudice and discrimination.",
+                "indicator": "I.EFL.5.3.1. Learners can make informed choices about issues of prejudice and discrimination. (J.1, S.1)",
+                "insertions": [
+                  "CS",
+                  "CIV",
+                  "VIAL"
+                ]
+              }
+            ]
+          },
+          {
+            "code": "CE.EFL.5.3",
+            "description": "Interpret cultural and language patterns in English, including nonverbal communication, and apply them in appropriate contexts.",
+            "unitTopic": "Cultural and Linguistic Formats",
+            "dcds": [
+              {
+                "code": "EFL.5.1.4",
+                "description": "Identify and interpret how cultural and language patterns in English are used when exchanging ideas on familiar topics according to a B1.2 level (slang, idioms, humor, formality).",
+                "indicator": "I.EFL.5.3.1. Learners can interpret cultural and language patterns in English, including nonverbal communication. (I.3, I.4, S.1, S.2)",
+                "insertions": [
+                  "CIV"
+                ]
+              },
+              {
+                "code": "EFL.5.1.7",
+                "description": "Interpret and demonstrate knowledge of nonverbal and oral communication features by applying them in appropriate contexts (stress, intonation, pace).",
+                "indicator": "I.EFL.5.3.1. Apply nonverbal and oral communication features in appropriate contexts. (I.3, S.1)",
+                "insertions": [
+                  "CC"
+                ]
+              }
+            ]
+          },
+          {
+            "code": "CE.EFL.5.4",
+            "description": "Communicate effectively using a variety of media and formats, including ICT, by saying things in alternative ways and applying self-monitoring strategies.",
+            "unitTopic": "Effective Communication and Digital Media",
+            "dcds": [
+              {
+                "code": "EFL.5.1.8",
+                "description": "Discover and employ alternative ways of saying things in social and classroom interactions.",
+                "indicator": "I.EFL.5.4.1. Learners can communicate effectively using a variety of media and formats. (I.1, I.3, J.4)",
+                "insertions": [
+                  "CS",
+                  "CIV",
+                  "VIAL"
+                ]
+              },
+              {
+                "code": "EFL.5.1.9",
+                "description": "Communicate information and ideas effectively to diverse audiences using a variety of media and formats.",
+                "indicator": "I.EFL.5.4.1. Communicate information and ideas effectively using digital formats. (I.1, I.3)",
+                "insertions": [
+                  "CC",
+                  "CD"
+                ]
+              },
+              {
+                "code": "EFL.5.1.11",
+                "description": "Apply self-correcting and self-monitoring strategies in social and classroom interactions by adjusting presentation and language production.",
+                "indicator": "I.EFL.5.4.1. Apply self-correcting and self-monitoring strategies in social interactions. (I.3, J.4)",
+                "insertions": [
+                  "CS",
+                  "CIV"
+                ]
+              }
+            ]
+          },
+          {
+            "code": "CE.EFL.5.5",
+            "description": "Listening for Meaning: Identify the main idea in a variety of audio recordings and deduce meanings of unfamiliar phrases in familiar contexts.",
+            "unitTopic": "Listening for Meaning and Contextual Clues",
+            "dcds": [
+              {
+                "code": "EFL.5.2.1",
+                "description": "Deduce the meanings of unfamiliar phrases and words from a context containing familiar elements (colloquial greetings, exclamations, interjections).",
+                "indicator": "I.EFL.5.5.1. Learners can identify main ideas and deduce meanings in audio recordings. (I.3, I.4)",
+                "insertions": [
+                  "CC"
+                ]
+              },
+              {
+                "code": "EFL.5.2.2",
+                "description": "Identify the main idea and some details of recorded news reports, documentaries and interviews on global and environmental issues.",
+                "indicator": "I.EFL.5.5.1. Identify main ideas and details in audio recordings. (I.3, I.4)",
+                "insertions": [
+                  "CC"
+                ]
+              },
+              {
+                "code": "EFL.5.2.5",
+                "description": "Understand the main idea of radio and audio recordings on subjects of personal interest, provided speech is clear.",
+                "indicator": "I.EFL.5.5.1. Understand spoken information on topics of personal interest. (I.3)",
+                "insertions": [
+                  "CC"
+                ]
+              }
+            ]
+          },
+          {
+            "code": "CE.EFL.5.6",
+            "description": "Listening for Information: Deal with practical, everyday communication demands in familiar social and academic contexts, including following oral directions.",
+            "unitTopic": "Listening for Practical Information and Instructions",
+            "dcds": [
+              {
+                "code": "EFL.5.2.3",
+                "description": "Follow main ideas in topics covered in other curricular subjects with visual support, using concepts and vocabulary studied in advance.",
+                "indicator": "I.EFL.5.6.1. Deal with practical communication demands in academic contexts. (I.1, I.3, S.1)",
+                "insertions": [
+                  "CC"
+                ]
+              },
+              {
+                "code": "EFL.5.2.4",
+                "description": "Follow oral directions in classroom activities and projects and provide directions to peers in selected interactions.",
+                "indicator": "I.EFL.5.6.1. Follow oral directions in class activities and provide directions to peers. (I.1, S.1)",
+                "insertions": [
+                  "CS",
+                  "VIAL",
+                  "CIV"
+                ]
+              },
+              {
+                "code": "EFL.5.2.13",
+                "description": "Deal with practical, everyday communication demands within familiar contexts effectively and without undue effort.",
+                "indicator": "I.EFL.5.6.1. Deal with everyday communication demands in familiar contexts. (I.1, I.3)",
+                "insertions": [
+                  "CC",
+                  "CS",
+                  "CIV"
+                ]
+              }
+            ]
+          },
+          {
+            "code": "CE.EFL.5.7",
+            "description": "Production - Accuracy and Intelligibility: Use appropriate vocabulary and language in a variety of oral interactions for a range of audiences.",
+            "unitTopic": "Spoken Production: Accuracy and Intelligibility",
+            "dcds": [
+              {
+                "code": "EFL.5.2.6",
+                "description": "Use new words and expressions which occur in conversations in the personal and educational domains.",
+                "indicator": "I.EFL.5.7.1. Communicate clearly and effectively using appropriate vocabulary. (I.2, I.3, J.2)",
+                "insertions": [
+                  "CC"
+                ]
+              },
+              {
+                "code": "EFL.5.2.12",
+                "description": "Use appropriate vocabulary, expressions, language routines and interaction styles in formal and informal speaking.",
+                "indicator": "I.EFL.5.7.1. Use appropriate interaction styles in oral production. (I.2, J.2)",
+                "insertions": [
+                  "CC"
+                ]
+              }
+            ]
+          },
+          {
+            "code": "CE.EFL.5.8",
+            "description": "Interaction - Interpersonal: Express opinions on abstract and concrete topics, request and provide assistance, and keep extended conversations going.",
+            "unitTopic": "Interpersonal Interaction and Peer Discussion",
+            "dcds": [
+              {
+                "code": "EFL.5.2.11",
+                "description": "Express opinions on abstract topics (film, music) and concrete topics, while describing reactions to them and others’ opinions.",
+                "indicator": "I.EFL.5.8.1. Express opinions on abstract and concrete topics in spoken exchanges. (I.3, S.1)",
+                "insertions": [
+                  "CS",
+                  "CIV"
+                ]
+              },
+              {
+                "code": "EFL.5.2.14",
+                "description": "Request and provide information and assistance orally for personal, social and academic purposes in order to clarify meaning.",
+                "indicator": "I.EFL.5.8.1. Request and provide information orally for academic purposes. (I.3, S.1)",
+                "insertions": [
+                  "CS",
+                  "VIAL",
+                  "CIV"
+                ]
+              },
+              {
+                "code": "EFL.5.2.15",
+                "description": "Engage in an extended conversation on most general topics and keep it going by expressing and responding to suggestions, advice and feelings.",
+                "indicator": "I.EFL.5.8.1. Engage in extended conversations responding to feelings and suggestions. (I.3, S.1)",
+                "insertions": [
+                  "CIV"
+                ]
+              }
+            ]
+          },
+          {
+            "code": "CE.EFL.5.9",
+            "description": "Production - Fluency: Present information clearly and influence an audience effectively through well-developed arguments in presentations.",
+            "unitTopic": "Oral Presentations and Argumentative Fluency",
+            "dcds": [
+              {
+                "code": "EFL.5.2.7",
+                "description": "Present information clearly and effectively in a variety of oral forms for a range of audiences (summarizing, research reports, posters).",
+                "indicator": "I.EFL.5.9.1. Present information clearly and influence an audience effectively. (I.2, I.3, J.2)",
+                "insertions": [
+                  "CC"
+                ]
+              },
+              {
+                "code": "EFL.5.2.8",
+                "description": "Influence an audience effectively through persuasion, argument or negotiation using conventions and features of English.",
+                "indicator": "I.EFL.5.9.1. Influence an audience through persuasion and argumentation. (I.2, J.2)",
+                "insertions": [
+                  "CC"
+                ]
+              }
+            ]
+          },
+          {
+            "code": "CE.EFL.5.10",
+            "description": "Find specific information and identify main points in straightforward texts on subjects of personal interest or familiar academic topics.",
+            "unitTopic": "Reading for Information and Text Analysis",
+            "dcds": [
+              {
+                "code": "EFL.5.3.1",
+                "description": "Find specific predictable information in short, simple texts in a range of age-appropriate topics (biographies, news articles, narratives).",
+                "indicator": "I.EFL.5.10.1. Learners can find specific information and identify main points in simple texts. (I.1, I.2, S.2)",
+                "insertions": [
+                  "CC"
+                ]
+              },
+              {
+                "code": "EFL.5.3.3",
+                "description": "Determine the main conclusion in texts which clearly argue a point of view in order to make informed decisions about reaction to the text.",
+                "indicator": "I.EFL.5.10.1. Determine the main conclusion in argumentative texts. (I.2, S.2)",
+                "insertions": [
+                  "VIAL",
+                  "CIV"
+                ]
+              },
+              {
+                "code": "EFL.5.3.8",
+                "description": "Identify and understand the main points in straightforward texts on subjects of personal interest or familiar academic topics.",
+                "indicator": "I.EFL.5.10.1. Identify and understand main points in straightforward texts. (I.1, I.2)",
+                "insertions": [
+                  "CC"
+                ]
+              }
+            ]
+          },
+          {
+            "code": "CE.EFL.5.11",
+            "description": "Identify and apply a range of reading strategies in order to make texts meaningful and select information of practical use for academic needs.",
+            "unitTopic": "Reading Strategies: Skimming, Scanning and Previewing",
+            "dcds": [
+              {
+                "code": "EFL.5.3.2",
+                "description": "Identify and use reading strategies to make informative and narrative texts comprehensible (skimming, scanning, context clues).",
+                "indicator": "I.EFL.5.11.1. Learners can apply a range of reading strategies to select information. (I.1, I.2, I.4, S.3)",
+                "insertions": [
+                  "CC"
+                ]
+              }
+            ]
+          },
+          {
+            "code": "CE.EFL.5.12",
+            "description": "Engage with a variety of digital and print reference materials to evaluate information and support inquiries across the curriculum.",
+            "unitTopic": "Critical Evaluation of Academic Reference Sources",
+            "dcds": [
+              {
+                "code": "EFL.5.3.4",
+                "description": "Find the most important information in print or online sources in order to support an idea or inquiry across subjects.",
+                "indicator": "I.EFL.5.12.1. Read, gather, view and evaluate information from various academic sources. (I.2, S.1)",
+                "insertions": [
+                  "CC",
+                  "CD"
+                ]
+              }
+            ]
+          },
+          {
+            "code": "CE.EFL.5.13",
+            "description": "Produce emails, blog posts and other written texts using an effective voice and a variety of appropriate writing styles and conventions.",
+            "unitTopic": "Social Writing: Conventions and Personal Reflection",
+            "dcds": [
+              {
+                "code": "EFL.5.4.6",
+                "description": "Produce emails and blog posts describing personal experiences and feelings.",
+                "indicator": "I.EFL.5.13.1. Produce emails, blog posts and other texts using an effective voice. (I.3, S.3, J.2)",
+                "insertions": [
+                  "CC",
+                  "CD",
+                  "CS",
+                  "CIV"
+                ]
+              },
+              {
+                "code": "EFL.5.4.8",
+                "description": "Create an effective voice, using a variety of writing styles appropriate to different audiences, purposes and settings.",
+                "indicator": "I.EFL.5.13.1. Create an effective voice using appropriate writing styles. (I.3, S.3)",
+                "insertions": [
+                  "CIV"
+                ]
+              },
+              {
+                "code": "EFL.5.4.9",
+                "description": "Use a variety of oral, print and electronic forms for writing to others or for self, applying conventions of social writing.",
+                "indicator": "I.EFL.5.13.1. Use a variety of electronic and print forms for writing. (I.3, J.2)",
+                "insertions": [
+                  "CC",
+                  "CD"
+                ]
+              }
+            ]
+          },
+          {
+            "code": "CE.EFL.5.14",
+            "description": "Identify, critically evaluate and recommend a variety of potential resources and references, including digital tools.",
+            "unitTopic": "Digital Literacy and Academic Source Evaluation",
+            "dcds": [
+              {
+                "code": "EFL.5.4.1",
+                "description": "Critically evaluate information from references, including those found on the web, and recommend print and digital sources to other learners.",
+                "indicator": "I.EFL.5.14.1. Learners can evaluate and recommend potential resources and references. (I.1, I.2, S.3, S.4)",
+                "insertions": [
+                  "CC",
+                  "CD"
+                ]
+              }
+            ]
+          },
+          {
+            "code": "CE.EFL.5.15",
+            "description": "Plan, draft, revise and edit well-structured texts using cohesive devices, paragraph structure, and appropriate punctuation.",
+            "unitTopic": "The Writing Process: Drafting and Editing",
+            "dcds": [
+              {
+                "code": "EFL.5.4.2",
+                "description": "Write a variety of short texts applying the writing process (prewriting, drafting, revising, editing) with cohesive devices.",
+                "indicator": "I.EFL.5.15.1. Learners can write cohesive texts using the stages of the writing process. (I.3, J.4)",
+                "insertions": [
+                  "CC"
+                ]
+              }
+            ]
+          },
+          {
+            "code": "CE.EFL.5.16",
+            "description": "Convey and organize complex ideas in expository and argumentative essays, choosing register appropriate to audience and purpose.",
+            "unitTopic": "Academic Argumentative and Expository Essays",
+            "dcds": [
+              {
+                "code": "EFL.5.4.3",
+                "description": "Write an argumentative essay clearly defending a thesis statement with supporting facts and logical transitions.",
+                "indicator": "I.EFL.5.16.1. Defend a position clearly in written argumentative essays. (I.2, I.4)",
+                "insertions": [
+                  "CC"
+                ]
+              }
+            ]
+          },
+          {
+            "code": "CE.EFL.5.17",
+            "description": "Synthesize information from multiple sources to create collaborative reports and digital presentations.",
+            "unitTopic": "Collaborative Digital Research and Reporting",
+            "dcds": [
+              {
+                "code": "EFL.5.4.7",
+                "description": "Develop collaborative writing tasks using online platforms to edit, draft and publish informative reports.",
+                "indicator": "I.EFL.5.17.1. Synthesize information from various sources in collaborative digital texts. (I.1, I.3)",
+                "insertions": [
+                  "CC",
+                  "CD"
+                ]
+              }
+            ]
+          },
+          {
+            "code": "CE.EFL.5.18",
+            "description": "Use creative thinking skills to produce short original literary texts in digital and print forms.",
+            "unitTopic": "Creative Storytelling and Literary Texts",
+            "dcds": [
+              {
+                "code": "EFL.5.5.5",
+                "description": "Create original, imaginative stories using appropriate vocabulary and stylistic devices in both print and digital forms.",
+                "indicator": "I.EFL.5.18.1. Learners can create short original literary texts using digital tools. (I.1, I.3)",
+                "insertions": [
+                  "CS",
+                  "CD",
+                  "CC"
+                ]
+              },
+              {
+                "code": "EFL.5.5.10",
+                "description": "Evaluate and recommend a literary text (written, oral, online, in video or in print) or a favorite activity to a peer.",
+                "indicator": "I.EFL.5.18.1. Evaluate and recommend literary texts to peers. (S.1, S.4, J.2)",
+                "insertions": [
+                  "CIV"
+                ]
+              }
+            ]
+          },
+          {
+            "code": "CE.EFL.5.19",
+            "description": "Engage in collaborative activities through a variety of student groupings to solve problems and reflect on literary texts.",
+            "unitTopic": "Collaborative Literature Workshops and Team Projects",
+            "dcds": [
+              {
+                "code": "EFL.5.5.7",
+                "description": "Collaboratively produce criteria for evaluating literary texts and the effectiveness of group work.",
+                "indicator": "I.EFL.5.19.1. Learners can engage in collaborative activities to solve problems and evaluate texts. (I.1, I.2, S.2, S.3, S.4, J.3, J.4)",
+                "insertions": [
+                  "CC"
+                ]
+              },
+              {
+                "code": "EFL.5.5.8",
+                "description": "Contribute to team projects to produce original works and solve problems while effectively negotiating interactions.",
+                "indicator": "I.EFL.5.19.1. Contribute to team projects to produce original works. (I.1, S.2, J.4)",
+                "insertions": [
+                  "CIV"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "emprendimiento-bgu",
+        "name": "Emprendimiento y Gestión",
+        "criteria": [
+          {
+            "code": "CE.EG.5.1",
+            "description": "Utiliza los conceptos básicos contables para proyectar el futuro financiero y punto de equilibrio de un emprendimiento.",
+            "unitTopic": "Conceptos Financieros, Costos y Punto de Equilibrio",
+            "dcds": [
+              {
+                "code": "EG.5.1.1",
+                "description": "Describir y explicar los conceptos financieros básicos de un emprendimiento: ingresos, costos, gastos, inversión y punto de equilibrio.",
+                "indicator": "I.EG.5.1.1. Determina proyecciones financieras y el punto de equilibrio de un emprendimiento. (I.1., S.1.)",
+                "insertions": [
+                  "FIN",
+                  "CM"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "escolaridad-inconclusa",
+    "name": "Educación Extraordinaria (Escolaridad Inconclusa / Adultos)",
+    "subjects": [
+      {
+        "id": "matematica-pja",
+        "name": "Matemática (Adaptación PJA)",
+        "criteria": [
+          {
+            "code": "CE.M.4.1.PJA",
+            "description": "Aplica relaciones de orden y cálculo de operaciones en Z y Q aplicados a situaciones reales como transacciones comerciales y capacidad de pago.",
+            "unitTopic": "Matemática Práctica: Transacciones, Deudas y Finanzas",
+            "dcds": [
+              {
+                "code": "M.4.1.1.PJA",
+                "description": "Reconocer números enteros Z en situaciones cotidianas (deudas, pérdidas y gastos en un negocio).",
+                "indicator": "I.M.4.1.1. Ejemplifica situaciones reales en las que se usan números enteros y evalúa capacidad de pago. (I.4.)",
+                "insertions": [
+                  "CM",
+                  "FIN"
+                ]
+              },
+              {
+                "code": "M.4.1.62.PJA",
+                "description": "Calcular el valor del dinero en el tiempo y los intereses asociados a préstamos para evaluar el costo de financiamiento.",
+                "indicator": "I.M.4.1.5. Evalúa opciones de crédito e inversión calculando la capacidad de pago personal. (I.1., I.4.)",
+                "insertions": [
+                  "FIN",
+                  "CM"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "lengua-pja",
+        "name": "Lengua y Literatura (Adaptación PJA)",
+        "criteria": [
+          {
+            "code": "CE.LL.4.7.PJA",
+            "description": "Estructura textos de utilidad laboral y comunitaria (cartas, reclamos, solicitudes, contratos) con coherencia y cohesión.",
+            "unitTopic": "Comunicación Asertiva y Documentos de Utilidad Práctica",
+            "dcds": [
+              {
+                "code": "LL.4.4.1.PJA",
+                "description": "Escribir textos de trámite y comunicativos con manejo de su estructura básica para el ejercicio ciudadano.",
+                "indicator": "I.LL.4.7.1. Estructura textos formales y laborales sustentando ideas con razones y ejemplos claros. (J.2.)",
+                "insertions": [
+                  "CC",
+                  "CIV"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "civica-pja",
+        "name": "Cívica y Acompañamiento Integral (PJA)",
+        "criteria": [
+          {
+            "code": "CE.CAI.PJA.1",
+            "description": "Promueve el respeto por la diversidad cultural, la justicia social, transparencia y toma de decisiones éticas en entornos comunitarios y laborales.",
+            "unitTopic": "Ética Laboral, Derechos Ciudadanos y Resolución de Conflictos",
+            "dcds": [
+              {
+                "code": "CAI.JA.1.1",
+                "description": "Valorar los principios de integridad, lealtad, transparencia e imparcialidad en situaciones laborales y comunitarias.",
+                "indicator": "I.CAI.JA.1.1. Analiza y resuelve dilemas éticos promoviendo la responsabilidad social y justicia. (J.2.)",
+                "insertions": [
+                  "CIV",
+                  "CS"
+                ]
+              },
+              {
+                "code": "CAI.JA.3.1",
+                "description": "Aplicar una comunicación asertiva y el trabajo en equipo para liderar proyectos personales y comunitarios.",
+                "indicator": "I.CAI.JA.3.1. Utiliza técnicas de comunicación efectiva y manejo constructivo de conflictos. (S.1.)",
+                "insertions": [
+                  "CS",
+                  "CC"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
